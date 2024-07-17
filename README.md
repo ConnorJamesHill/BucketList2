@@ -33,7 +33,7 @@ To install and run BucketList on your iOS device:
 5. Use Authentication or Face ID for secure access to your bucket list.
 
 ## Contact
-For questions or feedback regarding BucketList, please contact JamesConnorHill@gmail.com or my LinkedIn .
+For questions or feedback regarding BucketList, please contact JamesConnorHill@gmail.com or my LinkedIn https://www.linkedin.com/in/connor-j-hill/.
 
 ## Technologies Used
 - SwiftUI
